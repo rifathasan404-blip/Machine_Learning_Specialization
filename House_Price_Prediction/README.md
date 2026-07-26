@@ -49,6 +49,12 @@ The objective was to understand the complete machine learning workflow rather th
 
 ---
 
+## Project Workflow Diagram
+
+<img width="1024" height="1536" alt="project_workflow_diagram" src="https://github.com/user-attachments/assets/3f59e3af-7d04-497d-8ac5-6b9ecf2754a9" />
+
+---
+
 ## Results
 
 The model was evaluated using:
