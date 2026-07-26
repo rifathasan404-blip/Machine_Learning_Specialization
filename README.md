@@ -1,8 +1,7 @@
 # Machine Learning Specialization
 
-This repository contains my hands-on projects completed while studying the **Machine Learning Specialization** by **Andrew Ng (DeepLearning.AI & Stanford)**.
+<img width="1536" height="1024" alt="ML" src="https://github.com/user-attachments/assets/1d4e509f-9dcd-48bd-848f-97afe37e51d6" />
 
-The purpose of this repository is to document my learning journey by implementing machine learning concepts through practical projects.
 
 ## About
 
