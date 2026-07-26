@@ -61,6 +61,8 @@ The model was evaluated using:
 
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- 
 - R² Score
 
 ---
