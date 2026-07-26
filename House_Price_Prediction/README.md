@@ -3,6 +3,9 @@
 
 A beginner machine learning project that predicts house prices using **Linear Regression**.
 
+<img width="3840" height="2160" alt="house-price-prediction-workflow" src="https://github.com/user-attachments/assets/b49f338e-60b9-4664-9130-23e0a1e3815e" />
+
+
 ## Project Overview
 
 This project was completed as part of my learning journey through the **Machine Learning Specialization by Andrew Ng**.
