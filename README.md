@@ -23,8 +23,8 @@ The goal was **not simply to copy code**, but to understand each concept and imp
 | Project | Topic | Status |
 |----------|-------|--------|
 | House Price Prediction | Linear Regression | ✅ Completed |
-| Polynomial Regression | Polynomial Regression | ⏳ Coming Soon |
-| Logistic Regression | Classification | ⏳ Coming Soon |
+| Polynomial Regression | Polynomial Regression | ✅ Completed |
+| Logistic Regression | Classification | ✅ Completed |
 | Neural Networks | Deep Learning | ⏳ Coming Soon |
 
 ---
